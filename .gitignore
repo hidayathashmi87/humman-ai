@@ -1,0 +1,18 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Node (just in case)
+node_modules/
+npm-debug.log*
+
+# Mac specifics
+._*
+
+# Log files
+*.log
